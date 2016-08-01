@@ -1,0 +1,1 @@
+# s2i-httpd-example
